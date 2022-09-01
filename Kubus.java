@@ -1,5 +1,3 @@
-package Praktikum1;
-
 public class Kubus {
 	int sisiKubus = 5;
 	
