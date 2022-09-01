@@ -1,7 +1,3 @@
-package Praktikum1;
-
-import Mahasiswa.Mahasiswa;
-
 public class Mahasiswa {
 	String NIM, Nama, JenisKelamin, Alamat;
 	
